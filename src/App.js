@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HomePage from './components/HomePage/homePage'
+import HomePage from './pages/HomePage/homePage'
 
 function App() {
   return (
